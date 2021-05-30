@@ -1,2 +1,2 @@
-### [Proposta](https://wanderdasouza.github.io/Proposta.pdf)0499/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Proposta](https://wanderdasouza.github.io/mac0499/Proposta.pdf). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
