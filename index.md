@@ -1,2 +1,2 @@
-### [Proposta](https://wanderdasouza.github.io/mac0499/Proposta.pdf)
+### [Proposta](https://github.com/wanderdasouza/mac0499/blob/gh-pages/Proposta.pdf)
 
